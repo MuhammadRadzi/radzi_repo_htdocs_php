@@ -4,6 +4,8 @@
 $nilai_syafei = 94;
 
 if ($nilai_syafei >= 90) {
+    echo "Sangat mampu";
+} elseif ($nilai_syafei >= 80) {
     echo "Baik";
 } elseif ($nilai_syafei >= 75) {
     echo "Cukup";
