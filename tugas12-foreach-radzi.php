@@ -7,7 +7,7 @@ $sepatu = [
     "Specs"
 ];
 
-echo "Daftar sepatu: </br>";
+echo "Daftar koleksi sepatu: </br>";
 foreach ($sepatu as $merekSepatu) {
     echo "- " .$merekSepatu ."</br>";
 }
